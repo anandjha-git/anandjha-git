@@ -31,7 +31,7 @@ I'm Anand Kumar Jha
 ![](https://github-profile-trophy.vercel.app/?username=anandjha-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/Anand_On_Leet?theme=dark,ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anand_On_Leet?theme=dark&font=Galada&ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
